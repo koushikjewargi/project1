@@ -1,3 +1,4 @@
 # project1
-this is my first repo
-author koushikjewargi 
+this is my first git repo
+<br>
+author -koushikjewargi 
